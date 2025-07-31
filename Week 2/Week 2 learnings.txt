@@ -1,0 +1,23 @@
+#Studied Probability Distributions and Statistical measures:
+
+           Displaying and comparing quantitative data, modeling data distributions, exploring bivariate numerical data, study design, probability, counting, permissions and combinations, random variables, sampling distributions, inference for categorical data, analysis of variance.
+
+           Probability distributions, types of distributions, introduction to discrete uniform distribution, probability: Binomial distribution, Bernoulli Distribution, data science and statistics, normal distribution, Chi-squared, Students T distribution, Poisson, Logistic distribution
+
+Resources used: https://www.khanacademy.org/math/statistics-probability
+                https://youtube.com/playlist?list=PLaFfQroTgZnzbfK-Rie19FdV6diehETQy&si=vu_qSsQMU4qeS4E5b
+----------------------------------------------------------------------------------------------------------------
+
+#Learn Use of Pandas in python:
+
+            Data handling, tabular data writing, create plots, summary statistics, reshape layout of tables, combining of data, manipulate textual data.
+
+Resource used: https://pandas.pydata.org/docs/getting_started/index.html#getting-started
+----------------------------------------------------------------------------------------------------------------
+
+#Learn Exploratory Data Analysis(EDA): 
+
+             Data understanding, Data Preparation, Feature Understanding, Feature relationships, asking a question about the data.
+
+Resource used: https://youtu.be/xi0vhXFPegw?si=El9JLtuKZH4gczfp
+ 

@@ -1,0 +1,34 @@
+#STUDIED LINEAR ALGEBRA:
+
+==> Unit 1: Vectors and Spaces-
+           Revision of topics like Vectors, Linear combination,spans,dependence,independence, subspaces and basis, dot and cross products, Null space and column space.
+
+==> Unit 2: Matrix Transformation-
+           Linear transformation, matrix multiplication,inverse function,determinants,transpose of a matrix.
+
+==> Unit 3: Coordinate systems-
+           In epth knowledge of Orthognal Complements, orthogonal projections, change of basis, gram-Schmidt process, eigenvalues and eignevectors.
+
+Resource used: https://www.khanacademy.org/math/linear-algebra
+---------------------------------------------------------------------------------------------------------------
+
+#STRONG FOUNDATION OF CALCULUS:
+==> Essence of calculus, paradox of derivative,derivative formulas through geometry, visualizing the chain rule and product rule, Euler's number, implicit differentiation, Limits, L'hospital rule, epsilon delta definitions, Integration, higher order derivatives, taylor series.
+
+Resource used: https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
+---------------------------------------------------------------------------------------------------------------
+
+#Learn Cosine Similarity:
+
+Resources used: https://youtu.be/m_CooIRM3UI?si=LD0FAg41Dyyosueb
+                https://youtu.be/e9U0QAFbfLI?si=Hx4Qd0NWQCEAMK20
+--------------------------------------------------------------------------------------------------------------
+
+#Collect and Preprocess the Dataset:
+            I collected the dataset of movies including movie name,genres,
+movie id, ratings,user id, timestamp. 
+
+Resource used: https://grouplens.org/datasets/movielens/   
+---------------------------------------------------------------------------------------------------------------    
+
+

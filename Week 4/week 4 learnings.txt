@@ -1,0 +1,21 @@
+#Learn and implement k-NN and logistic regression models:
+
+#Learn about scikit and surprise packages for recommendation engines:
+
+#Learn how the evaluation is done by Precision@k and Recall @k:
+
+#And compare both the models to find the best accuracy:
+
+                    I learned how to build recommender systems—like the ones Netflix or Spotify use. I used tools like scikit-learn and Surprise to implement models such as logistic regression, k-NN, and SVD. I also understood key concepts like matrix factorization, latent features, and how to predict user preferences. Along with that, I learned how to evaluate recommendations using metrics like Precision@k, Recall@k, and RMSE to measure how accurate and useful the predictions are.
+
+
+
+Resources used: 1) https://scikit-learn.org/stable
+                2) https://towardsdatascience.com/evaluation-metrics-for-recommender-systems-5f3c6a8e3f6c
+                3) https://surpriselib.com
+                4) https://youtu.be/VEutgteFG_4
+                5) https://youtu.be/WEJcETfWwOo
+                6) https://youtu.be/BD9TkvEsKwM
+                7) https://youtu.be/WWLTNLYWwcI?si=fIhrdAQ7wB4ZNW9Q
+--------------------------------------------------------------------------------------------
+                
