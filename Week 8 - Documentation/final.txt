@@ -1,0 +1,10 @@
+#Packing Up with the project
+
+#Documenting all the codes in Git Hub
+#Git Hub Repository: https://github.com/UmeshMotiwale/IntelliRec-Movie-Recommender-System
+
+#Movie Recommendation system created and interface can be seen by running week 7 codes
+
+#Demo Video Recorded
+
+#Project Guidelines: https://www.notion.so/IntelliRec-1f934021751c80719496f43ad9be9a61

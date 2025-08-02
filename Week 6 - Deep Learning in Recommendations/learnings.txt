@@ -1,0 +1,13 @@
+#Neural Networks for Recommendations:
+Studied the architecture and functioning of deep neural networks, with a focus on embedding layers that convert sparse categorical data (like user/item IDs) into dense vector representations.
+
+#Neural Collaborative Filtering (NCF):
+Implemented a neural network-based model to capture complex user-item interactions.
+Learned how to replace matrix factorization with a trainable neural model.
+
+Resources:
+Neural Collaborative Filtering" (He et al., 2017) – Paper link on arXiv
+Core paper introducing the NCF framework.
+TensorFlow Recommenders (TFRS) – Official Guide
+
+------------------------------------------------------------------------------------------------
